@@ -1,6 +1,8 @@
 
 
-
+a {
+    color: seashell;
+}
 
 /* header section */
 
@@ -36,5 +38,10 @@ nav span {
     opacity: 0.9;
     justify-items: flex-end;
 
+}
+
+.container img {
+    height: 200px;
+    width: 300px;
 }
 
