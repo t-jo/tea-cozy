@@ -33,9 +33,9 @@ nav span {
     text-decoration: underline;
     font-family: Helvetica, sans-serif;
     font-size: 22px;
-    color: seas hell;
+    color: seashell;
     opacity: 0.9;
-    justify-content: right;
+    justify-items: end;
 
 }
 
