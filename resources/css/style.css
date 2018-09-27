@@ -1,0 +1,36 @@
+
+
+
+
+/* header section */
+
+header {
+  display: flex;
+  align-items: center;
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+  height: 69px;
+  border-bottom: 1px solid seashell;
+  padding: 10px;
+  background-color: black;
+  font-family: Helvetica, sans-serif;
+  font-size: 22px;
+  color: seashell;
+  opacity: 0.9;
+
+
+  .logo {
+      display: flex;
+      height: 50px;
+      
+  }
+
+/* nav section */
+
+nav span {
+    display: inline-block;
+    text-decoration: underline;
+
+}
+
