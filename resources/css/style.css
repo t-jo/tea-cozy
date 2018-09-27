@@ -23,8 +23,9 @@ header {
 
 
   .logo img {
-      display: flex;
+      display: inline-block;
       height: 50px;
+      margin-right: 400px;
   }
 
 /* nav section */
@@ -37,6 +38,7 @@ nav span {
     color: seashell;
     opacity: 0.9;
     align-items: right;
+    padding: 20px 10px;
     
 
 }
