@@ -35,7 +35,7 @@ nav span {
     font-size: 22px;
     color: seashell;
     opacity: 0.9;
-    justify-items: end;
+    justify-items: flex-end;
 
 }
 
