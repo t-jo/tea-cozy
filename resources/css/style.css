@@ -23,7 +23,7 @@ header {
   .logo {
       display: flex;
       height: 50px;
-      
+
   }
 
 /* nav section */
@@ -31,6 +31,11 @@ header {
 nav span {
     display: inline-block;
     text-decoration: underline;
+    font-family: Helvetica, sans-serif;
+    font-size: 22px;
+    color: seas hell;
+    opacity: 0.9;
+    justify-content: right;
 
 }
 
