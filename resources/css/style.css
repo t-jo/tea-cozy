@@ -1,4 +1,7 @@
+body {
+    background-color: black;
 
+}
 
 a {
     color: seashell;
@@ -63,6 +66,8 @@ nav span {
     font-family: Helvetica, sans-serif;
     color: seashell;
     opacity: 0.9;
+    z-index: 5;
+
 }
 
 /* tea of the month section */
