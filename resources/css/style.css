@@ -31,7 +31,8 @@ header {
 /* nav section */
 
 nav span {
-    display: inline-block;
+    display: flex;
+    flex-wrap: nowrap
     text-decoration: underline;
     font-family: Helvetica, sans-serif;
     font-size: 22px;
@@ -43,7 +44,7 @@ nav span {
 
 }
 
-.container img {
+.content.mission.tea-of-the-month.container img {
     height: 200px;
     width: 300px;
 }
