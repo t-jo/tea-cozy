@@ -47,6 +47,11 @@ nav span {
     width: 300px;
 }
 
+.mission img {
+    width: 1200px;
+    height: 700px;
+}
+
 .tea-of-the-month {
     display: flex;
     flex-wrap: wrap;
