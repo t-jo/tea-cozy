@@ -46,7 +46,6 @@ nav span {
 
 .mission {
     display: flex;
-    flex-wrap: wrap;
     background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg);
     background-color: black;
     width: 1200px;
@@ -56,6 +55,14 @@ nav span {
     opacity: 0.9;
     align-content: center;
     justify-content: center;
+}
+
+.mission.mission-text {
+    background-color: black;
+    width: 1200px;
+    font-family: Helvetica, sans-serif;
+    color: seashell;
+    opacity: 0.9;
 }
 
 /* tea of the month section */
