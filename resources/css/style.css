@@ -42,15 +42,21 @@ nav span {
     padding: 20px 10px;
 }
 
-.content.mission.tea-of-the-month.container img {
-    height: 200px;
-    width: 300px;
-}
+/* mission section */
 
-.mission img {
+.mission {
+    background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg);
+    background-color: black;
     width: 1200px;
     height: 700px;
+    font-family: Helvetica, sans-serif;
+    color: seashell;
+    opacity: 0.9;
+    align-content: center;
+    justify-content: center;
 }
+
+/* tea of the month section */
 
 .tea-of-the-month {
     display: flex;
@@ -58,4 +64,7 @@ nav span {
     padding: 10px;
     column-width: 1000px;
 }
-
+.content.mission.tea-of-the-month.container img {
+    height: 200px;
+    width: 300px;
+}
