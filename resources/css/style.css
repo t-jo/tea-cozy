@@ -40,12 +40,17 @@ nav span {
     opacity: 0.9;
     align-items: right;
     padding: 20px 10px;
-    
-
 }
 
 .content.mission.tea-of-the-month.container img {
     height: 200px;
     width: 300px;
+}
+
+.tea-of-the-month {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    column-width: 1000px;
 }
 
