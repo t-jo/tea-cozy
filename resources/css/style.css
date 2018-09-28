@@ -45,6 +45,8 @@ nav span {
 /* mission section */
 
 .mission {
+    display: flex;
+    flex-wrap: wrap;
     background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg);
     background-color: black;
     width: 1200px;
