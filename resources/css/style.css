@@ -47,7 +47,13 @@ span {
     align-items: flex-end;
     padding: 20px 10px;
 }
+/*content section */
 
+.content {
+    display:flex;
+    justify-content: space-around;
+    width: 95%;
+}
 /* mission section */
 
 .mission div {
