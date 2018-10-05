@@ -41,7 +41,7 @@ nav span {
     font-size: 22px;
     color: seashell;
     opacity: 0.9;
-    align-items: right;
+    align-items: end;
     padding: 20px 10px;
 }
 
