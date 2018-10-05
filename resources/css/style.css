@@ -33,7 +33,7 @@ header {
 
 /* nav section */
 
-nav span {
+nav {
     display: flex;
     flex:2;
     flex-wrap: nowrap
