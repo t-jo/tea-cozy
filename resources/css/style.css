@@ -37,6 +37,7 @@ header {
 span {
     display: flex;
     justify-content: flex-end;
+    align-items: center;
     order:4;
    
     text-decoration: underline;
