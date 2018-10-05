@@ -14,7 +14,6 @@ header {
   
   position: fixed;
   z-index: 1;
-  width: 100%;
   height: 69px;
   border-bottom: 1px solid seashell;
   padding: 10px;
@@ -38,14 +37,11 @@ span {
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    order:4;
-   
     text-decoration: underline;
     font-family: Helvetica, sans-serif;
     font-size: 22px;
     color: seashell;
     opacity: 0.9;
-    align-items: flex-end;
     padding: 20px 10px;
 }
 /*content section */
@@ -86,7 +82,7 @@ span {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    flex-basis: 95%;
+    flex-basis: 70%;
 }
 /*.container {
     display: flex;
