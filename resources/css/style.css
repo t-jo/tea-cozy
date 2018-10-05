@@ -69,7 +69,7 @@ span {
     justify-content: center;
 }
 
-.mission.mission-text div{
+.mission .mission-text div{
     background-color: black;
     width: 1200px;
     font-family: Helvetica, sans-serif;
@@ -81,14 +81,14 @@ span {
 
 /* tea of the month section */
 
-.tea-of-the-month div {
+.tea-of-the-month {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-   
+    flex-basis: 95%;
 }
-.container {
+/*.container {
     display: flex;
 
     flex-basis: 95%;
-}
+}*/
