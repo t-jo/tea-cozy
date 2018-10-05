@@ -87,7 +87,7 @@ span {
     padding: 10px;
     column-width: 1000px;
 }
-.container div img {
-    height: 200px;
-    width: 300px;
+.container {
+    
+    width: 95%;
 }
