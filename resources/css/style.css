@@ -38,7 +38,7 @@ span {
     display: flex;
     justify-content: flex-end;
     order:4;
-    flex-wrap: nowrap;
+   
     text-decoration: underline;
     font-family: Helvetica, sans-serif;
     font-size: 22px;
@@ -84,10 +84,11 @@ span {
 .tea-of-the-month div {
     display: flex;
     flex-wrap: wrap;
-    padding: 10px;
-    column-width: 1000px;
+    justify-content: space-around;
+   
 }
 .container {
-    
-    width: 95%;
+    display: flex;
+
+    flex-basis: 95%;
 }
