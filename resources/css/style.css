@@ -27,7 +27,6 @@ header div {
 
   .logo img {
       flex:1;
-      display: inline-block;
       height: 50px;
       margin-right: 400px;
   }
@@ -43,7 +42,7 @@ nav span {
     font-size: 22px;
     color: seashell;
     opacity: 0.9;
-    align-items: end;
+    align-items: flex-end;
     padding: 20px 10px;
 }
 
