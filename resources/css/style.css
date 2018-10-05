@@ -34,11 +34,11 @@ header {
 
 /* nav section */
 
-nav {
+header nav {
     display: flex;
     flex:3;
     order:2;
-    flex-wrap: nowrap
+    flex-wrap: nowrap;
     text-decoration: underline;
     font-family: Helvetica, sans-serif;
     font-size: 22px;
