@@ -26,6 +26,7 @@ header div {
 
 
   .logo img {
+      flex:1;
       display: inline-block;
       height: 50px;
       margin-right: 400px;
@@ -35,6 +36,7 @@ header div {
 
 nav span {
     display: flex;
+    flex:4;
     flex-wrap: nowrap
     text-decoration: underline;
     font-family: Helvetica, sans-serif;
