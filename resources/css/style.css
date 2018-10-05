@@ -27,6 +27,7 @@ header {
 
   .logo img {
       flex:1;
+      order:1;
       height: 50px;
       margin-right: 400px;
   }
@@ -35,7 +36,8 @@ header {
 
 nav {
     display: flex;
-    flex:2;
+    flex:3;
+    order:2;
     flex-wrap: nowrap
     text-decoration: underline;
     font-family: Helvetica, sans-serif;
