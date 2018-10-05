@@ -9,7 +9,7 @@ a {
 
 /* header section */
 
-header {
+header div {
   display: flex;
   align-items: center;
   position: fixed;
@@ -47,7 +47,7 @@ nav span {
 
 /* mission section */
 
-.mission {
+.mission div {
     display: flex;
     background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg);
     background-color: black;
@@ -60,7 +60,7 @@ nav span {
     justify-content: center;
 }
 
-.mission.mission-text {
+.mission.mission-text div{
     background-color: black;
     width: 1200px;
     font-family: Helvetica, sans-serif;
@@ -72,13 +72,13 @@ nav span {
 
 /* tea of the month section */
 
-.tea-of-the-month {
+.tea-of-the-month div {
     display: flex;
     flex-wrap: wrap;
     padding: 10px;
     column-width: 1000px;
 }
-.container img {
+.container div img {
     height: 200px;
     width: 300px;
 }
