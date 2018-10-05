@@ -34,7 +34,7 @@ header {
 
 /* nav section */
 
-header nav span {
+span {
     display: flex;
     justify-content: flex-end;
     order:4;
