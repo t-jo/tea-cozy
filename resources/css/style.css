@@ -11,7 +11,7 @@ a {
 
 header {
   display: flex;
-  
+  flex-basis: 100%;
   position: fixed;
   z-index: 1;
   height: 69px;
